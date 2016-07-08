@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  AHPhotoCollectionVC.h
 //  PhotoBombers
 //
 //  Created by Hickman on 4/21/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface AHPhotoCollectionVC : UICollectionViewController
 
 @end
-
